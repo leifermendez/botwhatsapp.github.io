@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/leifermendez/botwhatsapp.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
+<html lang="es">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Bot Whatsapp | Leifer Mendez</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
 
-### Markdown
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500&display=swap" rel="stylesheet">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <link rel="stylesheet" type="text/css" href="./style.css" />
+</head>
 
-```markdown
-Syntax highlighted code block
+<body>
+    <nav class="m-0 menu">Bot para Whatsapp Bussines o Personal</nav>
 
-# Header 1
-## Header 2
-### Header 3
+<div class="col-12 col-lg-10 offset-lg-1">
+    <div class="row">
+        <div class="col-12 row m-0 pt-5 col-lg-6 p-3">
+            <div class="col-12 col-md-6">
+                <img class="img-gif" src="./image.gif" alt="">
+            </div>
+            <div class="col-12 col-md-6">
+                <img class="img-gif" src="./image-2.gif" alt="">
+            </div>
 
-- Bulleted
-- List
+        </div>
+        <div class="col-12 pt-5 col-lg-6 p-3">
+            <p>Un <b>Bot de WhatsApp</b> es un programa de chatbot o software que se puede utilizar específicamente en
+                la
+                popular
+                aplicación de mensajería encriptada WhatsApp. Un Bot de WhatsApp te introduce en el mundo del marketing
+                conversacional y te ayuda a administrar los problemas de tus clientes.<br><br>
 
-1. Numbered
-2. List
+                Puede también darles a tus clientes asistencia en una plataforma privada y responder a sus preguntas de
+                inmediato. Esto te ayuda a interactuar con todos tus clientes de forma más eficiente respondiendo
+                preguntas
+                o confirmando citas en tiempo real, lo que ayuda a mejorar la experiencia del cliente y a ti ahorrándote
+                una
+                gran cantidad de tiempo valioso.<br><br>
 
-**Bold** and _Italic_ and `Code` text
+                Cuando creas tu propio bot de WhatsApp, tus oportunidades de comercio electrónico son infinitas. También
+                puedes personalizar el guión que usa el bot de WhatsApp para que puedas personalizar la experiencia para
+                todos tus clientes. El cifrado de WhatsApp también hace que sea una forma fácil y segura para
+                comunicarte
+                con ellos en tiempo real.</p>
+            <div class="text-center">
+                <a href="https://wa.me/5215574957250" target="_blank" class="btn-success btn btn-lg">Quiero mi bot</a>
+                <a href="https://wa.me/5215574957250" target="_blank" class="btn-primary btn btn-lg">Ver video</a>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/leifermendez/botwhatsapp.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
